@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a2c6ee0-df3e-42fb-a138-9cf0cf94b8ee" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/../menown_PA3/menown_p1/menown_p1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menown_PA3/menown_p2/menown_p2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menown_p2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menown_p2/src/DuplicateCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateRemover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../menown_p2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../menown_p2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../menown_p2/out/production/menown_p2/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../menown_p2/out/production/menown_p2/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../menown_p2/out/production/menown_p2/SavingsAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../menown_p2/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../menown_p2/src/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../menown_p2/src/SavingsAccount.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

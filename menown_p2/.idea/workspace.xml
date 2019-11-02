@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="523681dd-7dc8-4d1b-9bca-b1dfeb6d96fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../menown_PA3/menown_p1/menown_p1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../menown_PA3/menown_p2/menown_p2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicateCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../menown_p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../menown_p1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../menown_p1/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../menown_p1/src/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../menown_p1/src/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/../menown_p1/src/DuplicateRemover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/menown_p2/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/menown_p2/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/menown_p2/SavingsAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +67,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
