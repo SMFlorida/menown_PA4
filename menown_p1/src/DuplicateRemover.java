@@ -1,6 +1,6 @@
 /*
  * Shelby Menown
- * October 19, 2019
+ * November 2, 2019
  * COP3330 - Object Oriented Programming
  *
  * Assignment 4 (IntelliJ) - Problem 1
@@ -52,12 +52,10 @@ class DuplicateRemover {
         //Opening file
         FileOutputStream fileByteStream2 = new FileOutputStream("unique_words.txt");
         PrintWriter outFS = new PrintWriter(fileByteStream2);
-        //Iterator to iterate through hashSet
 
         //Writing to file
         for (String uniqueWord : uniqueWords) {
             outFS.println(uniqueWord);
-            //System.out.println(i.next());
         }
         outFS.flush();
 

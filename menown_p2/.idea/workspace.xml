@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30b7943d-1c41-4059-bd21-438cc0c70d4d" name="Default Changelist" comment="" />
+    <list default="true" id="523681dd-7dc8-4d1b-9bca-b1dfeb6d96fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../menown_PA3/menown_p1/menown_p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../menown_PA3/menown_p2/menown_p2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../menown_p1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p1/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../menown_p1/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p1/src/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/../menown_p1/src/DuplicateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/menown_p2/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/menown_p2/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/menown_p2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +28,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SLdCacGG9I8QGyUwpxvaqCvXMv" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T3KPLnITqnGNkvs2Sg1nvCFOku" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
@@ -34,36 +52,36 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="menown_p2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Application" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="30b7943d-1c41-4059-bd21-438cc0c70d4d" name="Default Changelist" comment="" />
-      <created>1571346682429</created>
+      <changelist id="523681dd-7dc8-4d1b-9bca-b1dfeb6d96fc" name="Default Changelist" comment="" />
+      <created>1572683313270</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571346682429</updated>
+      <updated>1572683313270</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

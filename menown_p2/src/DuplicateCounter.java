@@ -18,18 +18,48 @@
  * Your program should work on any text file. The TA's will provide their own version of problem1.txt when they run your code.
  */
 
+import java.util.HashMap;
+import java.util.Scanner;
+import java.util.Iterator;
+import java.util.Map.Entry;
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.FileOutputStream;
 
-public class Application {
-    //Main function
-    public static void main(String[] args) throws IOException{
-        //Declaring variables
-        DuplicateCounter testApplication = new DuplicateCounter();
+class DuplicateCounter {
+    //Declaring variables
+    private HashMap<String, Integer> wordCounter = new HashMap<>();
 
-        //Calling method to count all duplicate words from passed text file
-        testApplication.count("problem2.txt");
+    //Counts duplicate words in passed file
+    void count(String dataFile) throws IOException{
+        //Opening file
+        FileInputStream fileByteStream = new FileInputStream(dataFile);
+        Scanner inFS = new Scanner(fileByteStream);
 
-        //Calling method to write all word and word counts into new file
-        testApplication.write();
+        //Reading from file, creating or updating existing keys and values
+        while (inFS.hasNext()) {
+            wordCounter.merge(inFS.next(), 1, Integer::sum);
+        }
+
+        //Closing file
+        fileByteStream.close();
+    }
+
+    //Writes word and word counts into new file
+    void write() throws IOException {
+        //Opening file
+        FileOutputStream fileByteStream2 = new FileOutputStream("unique_word_counts.txt");
+        PrintWriter outFS = new PrintWriter(fileByteStream2);
+        Iterator<Entry<String, Integer>> i = wordCounter.entrySet().iterator();
+
+        //Writing to file
+        while (i.hasNext()){
+            outFS.println(i.next());
+        }
+        outFS.flush();
+
+        //Closing file
+        fileByteStream2.close();
     }
 }
