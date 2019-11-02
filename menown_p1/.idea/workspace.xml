@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89b44dd9-3e0d-444b-aaec-c66887842e0e" name="Default Changelist" comment="" />
+    <list default="true" id="3a2c6ee0-df3e-42fb-a138-9cf0cf94b8ee" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/../menown_PA4/menown_p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../menown_PA4/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../menown_PA4/src/DuplicateRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Shelb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menown_p1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/menown_p1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/menown_p1/mathPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p2/menown_p2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p2/out/production/menown_p2/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p2/out/production/menown_p2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p2/src/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menown_p2/src/SavingsAccount.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,14 +34,23 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SIPkIqBSE47wnvnebpJ62EnEdB" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Shelb\IdeaProjects\menown_PA4\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SrOTMzSg6fhLdbC6BKbfblX2az" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../menown_p2/src/SavingsAccount.java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,8 +65,15 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mathPractice" />
+    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="menown_p1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="menown_p1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -50,12 +85,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="89b44dd9-3e0d-444b-aaec-c66887842e0e" name="Default Changelist" comment="" />
-      <created>1571248277471</created>
+      <changelist id="3a2c6ee0-df3e-42fb-a138-9cf0cf94b8ee" name="Default Changelist" comment="" />
+      <created>1572318254032</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571248277471</updated>
+      <updated>1572318254032</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
