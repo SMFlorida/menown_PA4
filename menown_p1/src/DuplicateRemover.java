@@ -29,7 +29,7 @@ import java.io.FileOutputStream;
 
 class DuplicateRemover {
     //Declaring variables
-    private HashSet<String> uniqueWords = new HashSet<>(); //String for each word, integer for number of occurrences
+    private HashSet<String> uniqueWords = new HashSet<>();
 
     //Removes duplicate words in passed file
     void remove(String dataFile) throws IOException{
